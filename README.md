@@ -1,0 +1,2 @@
+# Cryptocurrency-Price-Prediction
+Predicting cryptocurrency price is difficult and some might even say it’s a waste of time, this is because of how volatile it is, especially since it’s still nascent in its development. Some people say that cryptocurrency is like internet in the 1980s, and I think that describes it very well. Nonetheless, predicting cryptocurrency price is a very interesting topic and it was a fun project to work on if you’re interested in time series analysis, in finance or data science in general.
